@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbiro13380&label=Profile%20views&color=0e75b6&style=flat" alt="tbiro13380" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Css, MySQL, Html.**
-
 - 📫 How to reach me **guilherme.tiburcio.ferreira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
