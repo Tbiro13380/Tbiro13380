@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">I'm currently studying software engineering.</h3>
+<h3 align="center">Web Developer.</h3>
 
 - 🌱 I’m currently learning **Javascript, PHP**
 
