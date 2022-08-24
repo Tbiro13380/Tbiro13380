@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">Web Developer.</h3>
 
-- 🌱 I’m currently learning **Javascript, PHP**
+- 🌱 I’m currently learning **Javascript, PHP and React JS**
 
-- 📫 How to reach me **guilherme.tiburcio.ferreira@gmail.com**
+- 📫 How to reach me **guilherme.tiburcio.ferreira@gmail.com** send me a messsage :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
