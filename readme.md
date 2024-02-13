@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Javascript, PHP and Laravel**
 
 - 📫 How to reach me **guilherme.tiburcio.ferreira@gmail.com** send me a messsage :)
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
